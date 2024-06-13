@@ -6,4 +6,4 @@
     <li>Trained the model using stacked LSTM model on the closing price data.</li>
     <li>Predicted price of the upcoming 30 days.</li>
 </ul>
-![Predicted prices vs actual prices](image.png)
+![Alt text](image-1.png)
